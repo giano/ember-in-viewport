@@ -13,7 +13,7 @@
   },
   "repository": "https://github.com/dockyard/ember-in-viewport",
   "engines": {
-    "node": ">= 12",
+    "node": ">= 12"
   },
   "author": "Lauren Tan",
   "license": "MIT",
@@ -36,7 +36,7 @@
     "ember-resolver": "^4.0.0",
     "ember-source":"~2.13.0",
     "ember-wait-for-test-helper": "0.1.1",
-    "loader.js": "~4.6.0",
+    "loader.js": "~4.6.0"
   },
   "keywords": [
     "ember-addon",
