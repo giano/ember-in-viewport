@@ -34,7 +34,7 @@
     "ember-load-initializers": "~1.0.0",
     "ember-native-dom-helpers": "^0.5.10",
     "ember-resolver": "^4.0.0",
-    "ember-source":"~2.13.0",
+    "ember-source": "~2.13.0",
     "ember-wait-for-test-helper": "0.1.1",
     "loader.js": "~4.6.0"
   },
